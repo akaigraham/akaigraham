@@ -2,7 +2,9 @@
 ## About Me
 I am an accomplished data scientist with a background in strategic financial analysis and investment due diligence. I am skilled in data acquisition, preprocessing, statistical analysis, machine learning, deep learning, and natural language processing. Experience collaborating with stakeholders to define requirements, execute processes, and deploy results. I am an adept learner seeking more authority in building tools that drive the most impact. 
 
-## 🌱 I’m currently learning ...
+## :computer: I’m currently working on:
+- Developing clothing recommendation engine for early-stage startup
+- Exploring different deployment strategies for efficiently pushing ML models into production
 
 
 - 👋 Hi, I’m @akaigraham
