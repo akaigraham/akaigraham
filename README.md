@@ -10,14 +10,10 @@ I am an accomplished data scientist with a background in strategic financial ana
 - 💻 Exploring different deployment strategies for efficiently pushing ML models into production
 
 ## Connect with Me:
-- 📬 Click [here](mailto:akaigraham@gmail.com)
-
 <p align="left">
 <a href="https://www.linkedin.com/in/kai-graham-5934706a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="kai-graham" height="30" width="40" /></a>
+<a href="mailto:akaigraham@gmail.com" target="blank"><img align="center" src=
 </p>
-
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 akaigraham/akaigraham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
