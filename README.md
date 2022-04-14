@@ -6,8 +6,9 @@
 I am an accomplished data scientist with a background in strategic financial analysis and investment due diligence. I am skilled in data acquisition, preprocessing, statistical analysis, machine learning, deep learning, and natural language processing. I have experience collaborating with stakeholders to define requirements, execute processes, and deploy results. I am an adept learner seeking more authority in building tools that drive the most impact. 
 
 ## Currently Working On:
-- 👕 Developing clothing recommendation engine for early-stage startup
+- 👕 Developing clothing recommendation engine for use by early-stage Shopify application
 - 💻 Exploring different deployment strategies for efficiently pushing ML models into production
+- 📸 Building a process to generate image captions using the Flickr30k dataset
 
 ## Connect with Me:
 <p align="left">
