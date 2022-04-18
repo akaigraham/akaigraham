@@ -9,6 +9,7 @@ I am an accomplished data scientist with a background in strategic financial ana
 - 👕 Developing clothing recommendation engine for use by early-stage Shopify application
 - 💻 Exploring different deployment strategies for efficiently pushing ML models into production
 - 📸 Building a process to generate image captions using the Flickr8k dataset
+- 📚 Working through labs and classes on AWS Educate.
 
 ## Connect with Me:
 <p align="left">
