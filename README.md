@@ -8,13 +8,12 @@ I am an accomplished data scientist with a background in strategic financial ana
 ## Open Source Contributions:
 - [MLflow](https://github.com/mlflow/mlflow): MLflow is a platform used to streamline machine learning development, including tracking experiments, packaging code into reproducible runs, and sharing and deploying models.
 
-#### 🔍 Always open to contributing to new projects
-
 ## Currently Working On:
-- 👕 Developing clothing recommendation engine for use by early-stage Shopify application
-- 💻 Exploring different deployment strategies for efficiently pushing ML models into production
-- 📸 Building a process to generate image captions using the Flickr8k dataset
+- 👕 Developing clothing recommendation engine for use by early-stage Shopify application.
+- 💻 Exploring different deployment strategies for efficiently pushing ML models into production.
+- 📸 Building a process to generate image captions using the Flickr30k dataset.
 - 📚 Working through labs and classes on AWS Educate.
+- 🧑‍💻 Contributing to open source projects.
 
 ## Connect with Me:
 <p align="left">
