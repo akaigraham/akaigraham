@@ -33,6 +33,8 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akaigraham&layout=compact&theme=tokyonight)](https://github.com/akaigraham)
 
+[![Kai's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akaigraham)](https://github.com/akaigraham)
+
 ## Hobbies:
 - 🎣 Fly Fishing: Saltwater | Freshwater
 - ⛷️ Skiing
