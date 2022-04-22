@@ -3,9 +3,9 @@
 #### 🔍 Open to Work / Looking for New Opportunities
 
 ## About Me:
-Accomplished data scientist with a passion for using the latest technologies to derive insights and build tools that drive value. 
-
-## Select Projects / Accomplishments:
+- Data Scientist | End-to-End Machine Learning Engineer
+- Passionate about using the latest technologies to derive insights and build tools that drive value
+- Background in technology investing, financial analysis, and corporate strategy
 
 ## Open Source Contributions:
 - [MLflow](https://github.com/mlflow/mlflow): MLflow is a platform used to streamline machine learning development, including tracking experiments, packaging code into reproducible runs, and sharing and deploying models.
