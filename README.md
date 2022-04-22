@@ -7,9 +7,6 @@
 - Passionate about using the latest technologies to derive insights and build tools that drive value
 - Background in technology investing, financial analysis, and corporate strategy
 
-## Open Source Contributions:
-- [MLflow](https://github.com/mlflow/mlflow): MLflow is a platform used to streamline machine learning development, including tracking experiments, packaging code into reproducible runs, and sharing and deploying models.
-
 ## Currently Working On:
 - 👕 Developing clothing recommendation engine for use by early-stage Shopify application.
 - 💻 Exploring different deployment strategies for efficiently pushing ML models into production.
