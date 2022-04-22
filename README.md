@@ -31,6 +31,8 @@
 
 </p>
 
+[![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=akaigraham)](https://github.com/akaigraham/github-readme-stats)
+
 ## Hobbies:
 - 🎣 Fly Fishing: Saltwater | Freshwater
 - ⛷️ Skiing
