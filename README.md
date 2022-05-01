@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm [Kai Graham](@akaigraham)
 
-#### 🔍 Open to Work / Looking for New Opportunities
+### 🔍 Open to Work / Looking for New Opportunities
 
 ## About Me:
 - Data Scientist | End-to-End Machine Learning Engineer
