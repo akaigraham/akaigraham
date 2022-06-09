@@ -1,4 +1,4 @@
-# Hi, I'm [Kai Graham](@akaigraham)
+# Hi, I'm Kai Graham
 
 ### 🔍 Open to Work / Looking for New Opportunities
 
