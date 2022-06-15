@@ -1,16 +1,11 @@
 # Hi, I'm Kai Graham
 
-### 🔍 Open to Work / Looking for New Opportunities
-
 ## About Me:
-- Data Scientist | End-to-End Machine Learning Engineer
+- Data Scientist 
 - Passionate about using the latest technologies to derive insights and build tools that drive value
 - Background in technology investing, financial analysis, and corporate strategy
 
 ## Currently Working On:
-- 👕 Developing clothing recommendation engine for use by early-stage Shopify application.
-- 💻 Exploring different deployment strategies for efficiently pushing ML models into production.
-- 📸 Building a process to generate image captions using the Flickr30k dataset.
 - 📚 Working through labs and classes on AWS Educate.
 - 🧑‍💻 Contributing to open source projects.
 
