@@ -4,10 +4,11 @@
 - Data Scientist 
 - Passionate about using the latest technologies to derive insights and build tools that drive value
 - Background in technology investing, financial analysis, and corporate strategy
+- Recently affected by layoffs and looking for new opportunities
 
 ## Currently Working On:
-- 📚 Working through labs and classes on AWS Educate.
-- 🧑‍💻 Contributing to open source projects.
+- 📚 Building a recommendation engine for a shopify application.
+- 🧑‍💻 Expanding skillset.
 
 ## Connect with Me:
 <p align="left">
