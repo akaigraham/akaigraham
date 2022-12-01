@@ -8,7 +8,7 @@
 
 ## Currently Working On:
 - 📚 Building a recommendation engine for a shopify application.
-- 🧑‍💻 Expanding skillset.
+- 🧑‍💻 Fine-tuning LLMs using GPT-3.
 
 ## Connect with Me:
 <p align="left">
