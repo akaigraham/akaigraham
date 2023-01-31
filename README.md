@@ -24,7 +24,7 @@
 
 </p>
 
-## Github Stats:
+## Github Stats (Public Repos):
 [![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=akaigraham&show_icons=true&theme=tokyonight)](https://github.com/akaigraham)
 
 <!--- Update when more filled in
