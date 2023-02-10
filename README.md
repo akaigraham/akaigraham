@@ -4,7 +4,7 @@
 - Data Scientist 
 - Passionate about using the latest technologies to derive insights and build tools that drive value
 - Background in technology investing, financial analysis, and corporate strategy
-- Recently affected by layoffs and looking for new opportunities
+- Recently impacted by layoffs and looking for new opportunities
 
 ## Currently Working On:
 - 📚 Building a recommendation engine for a shopify application.
