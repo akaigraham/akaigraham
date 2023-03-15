@@ -31,6 +31,9 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akaigraham&layout=compact&theme=tokyonight&hide=jupyter%20notebook)](https://github.com/akaigraham)
 --->
 
+<!--- Information pulled from the following repo for instruction on populating profile card.
+--->
+
 ## Hobbies:
 - 🎣 Fly Fishing: Saltwater | Freshwater
 - ⛷️ Skiing
