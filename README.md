@@ -25,7 +25,7 @@
 </p>
 
 ## Github Stats (Public Repos):
-![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=akaigraham&show_icons=true&theme=transparent)(https://github-readme-stats.vercel.app/api?username=akaigraham&show_icons=true&theme=transparent)
+![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=akaigraham&show_icons=true&theme=transparent)
 
 <!--- Update when more filled in
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akaigraham&layout=compact&theme=tokyonight&hide=jupyter%20notebook)](https://github.com/akaigraham)
