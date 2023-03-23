@@ -26,6 +26,7 @@
 
 ## Github Stats:
 ![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=akaigraham&show_icons=true&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=akaigraham&theme=transparent)](https://git.io/streak-stats)
 
 <!--- Update when more filled in
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akaigraham&layout=compact&theme=tokyonight&hide=jupyter%20notebook)](https://github.com/akaigraham)
