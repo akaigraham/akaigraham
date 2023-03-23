@@ -24,9 +24,9 @@
 
 </p>
 
-
 ## Github Stats:
-![Kai's GitHub stats](https://github-readme-stats-akaigraham.vercel.app/api?username=akaigraham&show_icons=true&theme=transparent&count-private=true)
+![Kai's GitHub stats](https://github-readme-stats-akaigraham.vercel.app/api?username=akaigraham&show_icons=true&theme=dracula&count-private=true)
+![Contribution Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akaigraham&theme=dracula)
 
 <!--- Update when more filled in
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akaigraham&layout=compact&theme=tokyonight&hide=jupyter%20notebook)](https://github.com/akaigraham)
