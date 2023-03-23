@@ -26,7 +26,7 @@
 
 ## Github Stats:
 ![Contribution Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akaigraham&theme=transparent)
-![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=akaigraham&show_icons=true&theme=transparent)
+![Kai's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=akaigraham&show_icons=true&theme=transparent)
 
 <!--- Update when more filled in
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akaigraham&layout=compact&theme=tokyonight&hide=jupyter%20notebook)](https://github.com/akaigraham)
