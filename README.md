@@ -26,7 +26,7 @@
 
 ## Github Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=akaigraham&theme=transparent)](https://git.io/streak-stats)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/akaigraham/langs)](https://githubtrends.io)
+[![Contribution History](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akaigraham&theme=transparent)
 
 <!--- Update when more filled in
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akaigraham&layout=compact&theme=tokyonight&hide=jupyter%20notebook)](https://github.com/akaigraham)
