@@ -16,7 +16,6 @@
 <a href="mailto:akaigraham@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="kai-graham" height="30" width="40" /></a>
 </p>
 
-
 ## Languages & Tools:
 <p align="left"> 
 
