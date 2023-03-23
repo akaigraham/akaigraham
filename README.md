@@ -25,15 +25,15 @@
 </p>
 
 ## Github Stats:
-![Contribution Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akaigraham&theme=transparent)
 ![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=akaigraham&show_icons=true&theme=transparent)
 
 <!--- Update when more filled in
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akaigraham&layout=compact&theme=tokyonight&hide=jupyter%20notebook)](https://github.com/akaigraham)
 --->
 
-<!--- Information pulled from the following repo for instruction on populating profile card.
+<!--- ![Contribution Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akaigraham&theme=transparent)
 --->
+
 
 ## Hobbies:
 - 🎣 Fly Fishing: Saltwater | Freshwater
