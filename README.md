@@ -26,6 +26,7 @@
 
 ## Github Stats:
 [![Contribution Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akaigraham&theme=transparent)
+[![Profile Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akaigraham&theme=transparent)
 
 <!--- Update when more filled in
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akaigraham&layout=compact&theme=tokyonight&hide=jupyter%20notebook)](https://github.com/akaigraham)
