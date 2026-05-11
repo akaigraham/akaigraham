@@ -6,8 +6,7 @@
 - Background in technology investing, financial analysis, and corporate strategy
 
 ## Currently Working On:
-- 📚 Building a recommendation engine for a shopify application.
-- 🧑‍💻 Fine-tuning Stable Diffusion and large language models.
+- Engineering at the forefront with OpenClaw, Hermes, and Orchestrator / Sub-Agent Architectures
 
 ## Connect with Me:
 <p align="left">
